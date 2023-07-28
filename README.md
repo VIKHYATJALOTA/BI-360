@@ -14,7 +14,8 @@ This Dashboard contains several pages
 🔸 Info Page
 🔸 Support Page
 
-In this project :
+In this project :                                      
+
 1.)Learned how data transparency is brought to big organizations enabling users to make data informed decisions.
 2.)Connected Power BI with MySQL,Excel to import ~ 4 million records. Performed data transformation in Power Query.
 3.)Built a dashboard in Power BI from scratch for finance, sales, marketing, supply chain, and executives which will support the organization in gross margin improvement
